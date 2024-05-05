@@ -3,24 +3,24 @@ Develop a Django project for a Linktree clone, using Class Based Views. Manage p
 
 # Django Class Based Views + Linktree Clone Project
 
-## New Product Pivot
+-  New Product Pivot
 
-## Creating Initial Django Project and LinkPlant App
+-  Creating Initial Django Project and LinkPlant App
 
-## Setting Up the Profile and Link Models
+-  Setting Up the Profile and Link Models
 
-## Registering Our Models with the Admin and Creating Data via the Admin
+-  Registering Our Models with the Admin and Creating Data via the Admin
 
-## Listing Out the Links with a Class Based View ListView
+-  Listing Out the Links with a Class Based View ListView
 
-## Creating Base HTML File and Styling with Tailwind CSS
+-  Creating Base HTML File and Styling with Tailwind CSS
 
-## Creating New Links with the CreateView Class Based View
+-  Creating New Links with the CreateView Class Based View
 
-## Installing Crispy Forms and Tailwind Styling
+-  Installing Crispy Forms and Tailwind Styling
 
-## Updating the Links with the UpdateView Class
+-  Updating the Links with the UpdateView Class
 
-## Creating the Delete View to Remove a Link Using DeleteView Class
+-  Creating the Delete View to Remove a Link Using DeleteView Class
 
-## Building the Final Profile Page Showcasing Links
+-  Building the Final Profile Page Showcasing Links
